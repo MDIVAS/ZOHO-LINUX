@@ -38,6 +38,18 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
+[![Alt text](https://img.youtube.com/vi/J7MK-q7Zufo/0.jpg)](https://www.youtube.com/watch?v=J7MK-q7Zufo)
+
+
+
+CLICK ON THE ABOVE IMAGE TO WATCH THE FULL VIDEO  ☝👆
+
+
+![swappy-20231002_194957](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/d92977eb-8fc3-4c50-857e-9533dbc4c3e4)
+![swappy-20231002_195024](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/6ba5a172-bed7-408e-9e7d-c64dae903a64)
+![swappy-20231002_195132](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/88838ce4-e676-4f07-b630-bcd7f053aab4)
+![swappy-20231002_195418](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/b3885569-8c10-40a0-928c-269441263e95)
+![swappy-20231002_195352](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/2c0cbd7c-9696-4bb3-9529-c3e0c7caad02)
 
 THIS LINUX IS BASED ON ARCH LINUX ON HYPERLAND SESSION
 
