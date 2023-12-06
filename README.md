@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-LINUX ">
-    <img src="https://recoverhdd.com/wp-content/themes/soft/images/blog/linux.gif" alt="Logo" width="80" height="80">
+    <img src="https://www.gifservice.fr/img/gif-vignette-small/5fc9ed867ced33adf9634cc6c0e01859/49289-multi-media-computer-software-linux.gif" alt="Logo" width="480" height="270">
   </a>
 
   <h3 align="center">ZOHO-LINUX ARCH</h3>
