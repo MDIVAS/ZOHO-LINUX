@@ -42,42 +42,39 @@
 
 
 
-CLICK ON THE ABOVE IMAGE TO WATCH THE FULL VIDEO  ☝👆
-### ----------------------------------------------------------------------------------------------------------------
+## CLICK ON THE ABOVE IMAGE TO WATCH THE FULL VIDEO  ☝👆
+
 
 ![swappy-20231002_194957](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/d92977eb-8fc3-4c50-857e-9533dbc4c3e4)
 
-### ----------------------------------------------------------------------------------------------------------------
+
 ![swappy-20231002_195024](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/6ba5a172-bed7-408e-9e7d-c64dae903a64)
 
-### ----------------------------------------------------------------------------------------------------------------
+
 ![swappy-20231002_195132](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/88838ce4-e676-4f07-b630-bcd7f053aab4)
 
-### ----------------------------------------------------------------------------------------------------------------
+
 ![swappy-20231002_195418](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/b3885569-8c10-40a0-928c-269441263e95)
 
-### ----------------------------------------------------------------------------------------------------------------
 ![swappy-20231002_195352](https://github.com/MDIVAS/ZOHO-LINUX/assets/127883304/2c0cbd7c-9696-4bb3-9529-c3e0c7caad02)
 
-### ----------------------------------------------------------------------------------------------------------------
 
-THIS LINUX IS BASED ON ARCH LINUX ON HYPERLAND SESSION
+### BASED ON ARCH LINUX ON HYPERLAND SESSION
 
-THIS LINUX IS OPTIMISED TO RUN ALL THE ZOHO APPS
+###  IS OPTIMISED TO RUN ALL THE ZOHO APPS
 
-IT CONTAINS ALL THE ZOHO APPS AND RUNS WITHOUT ERROR
+### CONTAINS ALL THE ZOHO APPS AND RUNS WITHOUT ERROR
 
-THIS LINUX HAS INBUILT TOOLS THAT CAN CONVERT DEBIAN AND REDHAT PACKAGE TO TARZ AND RUN IT 
+### HAS INBUILT TOOLS THAT CAN CONVERT DEBIAN AND REDHAT PACKAGE TO TARZ AND RUN IT 
 
 
-THIS LINUX USES LESS RAM AND CPU THAN WINDOWS 
+### USES LESS RAM AND CPU THAN WINDOWS 
 
-THIS LINUX HAS GOOD UI AND ANIMATIONS 
+###  HAS GOOD UI AND ANIMATIONS 
 
-THE DRIVERS COME PRE INSTALLED ON IT 
+### THE DRIVERS COME PRE INSTALLED ON IT 
 
-THE ZOHO APPS ARE RUNNING ON AN ANDROID ENVIRONMENT 
-AND ALSO ARE VERY SECURE 
+### THE ZOHO APPS ARE RUNNING ON AN ANDROID ENVIRONMENT  AND ALSO ARE VERY SECURE 
 
 
 
@@ -114,9 +111,7 @@ TO INSTALL ZOHO-LINUX IT REQUIRES A LOT OF KNOWLEDGE BECAUSE UNLIKE WINDOWS SETU
 5)ARCHLINUX IS A FREE OPENSOURCE 
 
 
-## Usage
 
-IT CAN BE USED TO CREATE MORE LINUX TO USE MORE FEATURES
 
 
 ## Roadmap
